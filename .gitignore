@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Laporan & Dokumen (Strict Policy: No Docs/PDFs in repo)
+laporan/
+*.docx
+*.pdf
+*.txt
+*.html
+*.mhtml
+
+# Media & Gambar
+screenshoot/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Environment & IDE
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+
+# Video & Media Produksi
+video/
+*.mp4
+*.mp3
+*.wav
